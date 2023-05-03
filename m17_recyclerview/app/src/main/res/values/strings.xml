@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Фото Марса</string>
+    <string name="date_text">Дата:</string>
+    <string name="sol_text">Sol:</string>
+    <string name="fragment_main">Фото с Марса</string>
+    <string name="menu_title_date">Дата</string>
+    <string name="choose_the_date_dialog_title">Дата фото</string>
+
+</resources>
